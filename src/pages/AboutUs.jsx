@@ -8,7 +8,7 @@ const AboutUs = () => {
       {/* Banner */}
       <div>
   {/* Full-width blue background */}
-  <div className="bg-irc-blue py-16 mt-16">  {/* Adjust mt-16 based on your nav height */}
+  <div className="bg-irc-blue py-16 mt-9">  {/* Adjust mt-16 based on your nav height */}
     {/* Full-width black background */}
     <div className="bg-black w-full">
       {/* Centered container for content */}
